@@ -127,7 +127,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/spaceship.mp3"
+                 "value":"mp3\/spaceship.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
