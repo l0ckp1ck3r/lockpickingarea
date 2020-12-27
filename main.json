@@ -136,9 +136,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiroom",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared SSDeV"
+                 "value":"shared_SSDeV"
                 }],
          "type":"tilelayer",
          "visible":true,
