@@ -138,7 +138,7 @@
                 {
                  "name":"jitsiroom",
                  "type":"string",
-                 "value":"SSDeV"
+                 "value":"shared SSDeV"
                 }],
          "type":"tilelayer",
          "visible":true,
