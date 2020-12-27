@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https://lobby.maps.at.rc3.world/\/maps\/hardware-making.json#start_c3lock"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/hardware-making.json#start_c3lock"
                 }],
          "type":"tilelayer",
          "visible":true,
